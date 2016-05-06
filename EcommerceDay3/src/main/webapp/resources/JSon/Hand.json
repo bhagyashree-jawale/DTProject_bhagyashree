@@ -1,0 +1,20 @@
+[
+    {
+      "image" : "./resources/images/hand2.jpg",
+      "name" : "Beige Leather Handbag",
+      "qty" : "4",
+      "price" : "7499"
+    },
+    {
+     "image" : "./resources/images/hand1.jpg",
+      "name" : "Black Polyurethane (Pu) Handbag",
+      "qty" : "2",
+      "price" : "3390"
+    },
+    {
+     "image" : "./resources/images/hand3.jpg",
+      "name" : "Pink Polyurethane (Pu) Handbag",
+      "qty" : "5",
+      "price" : "699"
+    }
+]
