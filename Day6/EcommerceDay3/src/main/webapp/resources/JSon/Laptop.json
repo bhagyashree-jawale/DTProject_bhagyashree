@@ -1,0 +1,21 @@
+[
+    {
+      "image" : "./resources/images/laptop1.jpg",
+      "name" : "GAUGE MACHINE Grey Leather Laptop Bag",
+      "qty" : "2",
+      "price" : "1999"
+    },
+    {
+     "image" : "./resources/images/laptop2.jpg",
+      "name" : "Bendly Black Polyester Laptop Bag16 Inch Black Laptop Bag",
+      "qty" : "2",
+      "price" : "1200"
+    },
+    {
+     "image" : "./resources/images/laptop3.jpg",
+      "name" : "Abrazo Black Polyurethane (Pu) Laptop Backpack",
+      "qty" : "3",
+      "price" : "2840"
+    }
+]
+

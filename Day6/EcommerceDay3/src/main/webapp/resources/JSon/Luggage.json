@@ -1,0 +1,20 @@
+[
+    {
+      "image" : "./resources/images/luggage1.jpg",
+      "name" : "Samsonite 76 Cm Basal Spinner Blue Strolley",
+      "qty" : "3",
+      "price" : "7400"
+    },
+    {
+     "image" : "./resources/images/luggage2.jpg",
+      "name" : "American Tourister 55 Cm X-Bag Purple Duffle Bag",
+      "qty" : "5",
+      "price" : "1750"
+    },
+    {
+     "image" : "./resources/images/luggage3.jpg",
+      "name" : "American Tourister 55Cm Vision Navy Blue Non Wheel Duffle Bag",
+      "qty" : "5",
+      "price" : "1750"
+    }
+]
